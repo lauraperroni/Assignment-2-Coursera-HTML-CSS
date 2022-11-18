@@ -1,2 +1,5 @@
 # Assignment-2-Coursera-HTML-CSS
- Primeiro trabalho de HTML e CSS do curso do Coursera.
+
+First assignment from coursera's html and css course.
+
+see here:
